@@ -1,0 +1,23 @@
+
+  - id: "40d4-dde8-daf4"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      left_text_content: "ZestyBurger is the premier burger chain. We were founded in 2018 when our founder and ceo decided to create the perfect burger. We are now serving perfection on a tray."
+      left_text_title: "About Us"
+      middle_left_links_title: "The Restaurant"
+      middle_right_links_title: "Useful Links"
+      right_links_title: "Other"

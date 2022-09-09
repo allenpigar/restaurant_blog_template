@@ -1,0 +1,23 @@
+
+  - id: "5a26-b3dd-53a1"
+    web:
+      metaDescription: ""
+      metaTitle: "Buy One Get One Free ZestyBurger"
+      metaLinkText: "Buy One Get One Free ZestyBurger"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      description: "Celebrate summer with not just one, but two Zesty Burgers! Buy one ZestyBurger and get a second one for free!"
+      display_image: "https://6c706l48.media.zestyio.com/zestyburger.e30e95fa129be1d3dec75be06ab1c4b4.jpg"
+      expiration_date: "2018-09-01"
+      name: "Buy One Get One Free ZestyBurger"
+      uuid: "4f26a4ae-b1e5-469a-b7e1-c31ed8f9b272"

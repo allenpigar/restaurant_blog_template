@@ -1,0 +1,38 @@
+
+  - id: "b7ca-8d60-91d3"
+    web:
+      metaDescription: ""
+      metaTitle: "San Diego"
+      metaLinkText: "San Diego"
+      metaKeywords: null
+      pathPart: "san-diego"
+      path: "/locations/usa/san-diego/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/locations/usa/"
+    meta:
+      sort: 19
+      listed: true
+    data:
+      address: "2018-07-20 11:32:29"
+      careers_subpage_description: "Join your local cool kids group"
+      careers_subpage_image: "https://svc.zesty.io/media-resolver-service/resolve/3-6a35003-f1yju/getimage/?w=199&h=200&type=fit"
+      careers_subpage_title: "Zesty Openings"
+      city: "San Diego"
+      description: "Located in the heart of Downtown, ZestyBurger San Diego features many unique specialty items. Our most popular item is the California burrito."
+      events_subpage_description: "Party by the beach like a cool kiddo! yeet"
+      events_subpage_image: "https://svc.zesty.io/media-resolver-service/resolve/3-6a4a02d-r719f/getimage/?w=199&h=200&type=fit"
+      events_subpage_title: "SD Events"
+      image: "https://svc.zesty.io/media-resolver-service/resolve/3-6a35003-f1yju/getimage/?w=199&h=200&type=fit"
+      landing_link: "http://burger.zesty.site/locations/usa/san-diego/california-burrito"
+      landing_link_text: "See the California Burrito"
+      lat: "32.726631"
+      lng: "-117.164108"
+      local_careers_list: ""
+      local_event_list: ""
+      local_menu_items: ""
+      menu_subpage_description: "From the blind texts themselves, here is our award-winning menu. With options for everyone, ZestyBurger caters to everyone."
+      menu_subpage_title: "Zesty Menu"
+      phone_number: "(858) 555-5432"

@@ -1,0 +1,20 @@
+
+  - id: "5865-e6d1-ae90"
+    web:
+      metaDescription: ""
+      metaTitle: "Cashier"
+      metaLinkText: "Cashier"
+      metaKeywords: null
+      pathPart: "job-cashier"
+      path: "/locations/usa/job-cashier/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/locations/usa/"
+    meta:
+      sort: 14
+      listed: true
+    data:
+      description: "Looking for an applicant who can count change and take orders and who performs well under high pressure. Our locations are always packed, so the applicant must be able to perform well under stress. References are recommended."
+      title: "Cashier"

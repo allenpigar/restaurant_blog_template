@@ -1,0 +1,26 @@
+
+  - id: "adb5-a86c-2005"
+    web:
+      metaDescription: ""
+      metaTitle: "zestyburger"
+      metaLinkText: "zestyburger"
+      metaKeywords: null
+      pathPart: "zestyburger"
+      path: "/menu/zestyburger/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/menu/"
+    meta:
+      sort: 17
+      listed: true
+    data:
+      description: "These are the Cubans, baby. This is the Cohibas; the Montecristos. This is the ZestyBurger. Come taste our award winning, People's Choice, ZestyBurger today for just $18"
+      featured: 1
+      gluten_free: 0
+      images: "https://6c706l48.media.zestyio.com/zestyburger.e30e95fa129be1d3dec75be06ab1c4b4.jpg"
+      name: "Zesty Burger"
+      price: "18.00"
+      vegan: 0
+      vegetarian: 0

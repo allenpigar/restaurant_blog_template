@@ -1,0 +1,23 @@
+
+  - id: "4cf0-59a3-01f3"
+    web:
+      metaDescription: ""
+      metaTitle: "Homepage"
+      metaLinkText: "Homepage"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      splash_background: "https://6c706l48.media.zestyio.com/bg_3.f1cb27a519bdb5b6ed34049a5b86e317.jpg"
+      splash_description: "Come and taste the burger revolution at any of our award winning restaurants worldwide."
+      splash_link: "/locations/"
+      splash_link_text: "Find a Location Near You"
+      splash_title: "Eat Zesty"

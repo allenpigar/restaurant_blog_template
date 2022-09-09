@@ -1,0 +1,18 @@
+
+  - id: "6572-fea3-476e"
+    web:
+      metaDescription: ""
+      metaTitle: "USA Locations"
+      metaLinkText: "USA Locations"
+      metaKeywords: null
+      pathPart: "usa"
+      path: "/locations/usa/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/locations/"
+    meta:
+      sort: 12
+      listed: true
+    data: {}

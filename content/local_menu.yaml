@@ -1,0 +1,26 @@
+
+  - id: "c567-fa09-5796"
+    web:
+      metaDescription: ""
+      metaTitle: "California Burrito"
+      metaLinkText: "California Burrito"
+      metaKeywords: null
+      pathPart: "california-burrito"
+      path: "/locations/usa/california-burrito/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/locations/usa/"
+    meta:
+      sort: 15
+      listed: true
+    data:
+      description: "The California burrito is the standard by which all other massive bricks of Cal-Mex food are measured. It's a jumbo flour tortilla filled with carne asada, guacamole, pico de gallo, cheese, andâ€”setting itself apart from the bean and rice-base Mission burritoâ€”a fat handful of French fries.\nCan be made vegetarian on request."
+      featured: 1
+      gluten_free: 0
+      images: "https://6c706l48.media.zestyio.com/caliburrito.e30e95fa129be1d3dec75be06ab1c4b4.jpg"
+      name: "California Burrito"
+      price: "8.00"
+      vegan: 0
+      vegetarian: 1

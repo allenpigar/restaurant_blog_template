@@ -1,0 +1,24 @@
+
+  - id: "934c-7edc-cb51"
+    web:
+      metaDescription: ""
+      metaTitle: "The Cool Mist"
+      metaLinkText: "The Cool Mist"
+      metaKeywords: null
+      pathPart: "the-cool-mist"
+      path: "/menu/the-cool-mist/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/menu/"
+    meta:
+      sort: 18
+      listed: true
+    data:
+      alcoholic: 1
+      description: "Powerful, heavy, liberating, this drink takes you back to the good old days."
+      featured: 1
+      images: "https://6c706l48.media.zestyio.com/yellow.SJgrxxVXm.e30e95fa129be1d3dec75be06ab1c4b4.jpg"
+      name: "The Cool Mist"
+      price: "15.00"

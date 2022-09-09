@@ -1,0 +1,20 @@
+
+  - id: "6597-0607-8337"
+    web:
+      metaDescription: ""
+      metaTitle: "Chef"
+      metaLinkText: "Chef"
+      metaKeywords: null
+      pathPart: "chef"
+      path: "/careers/chef/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/careers/"
+    meta:
+      sort: 16
+      listed: true
+    data:
+      description: "Help create the next ZestyBurger. Applicant must be extremely well qualified and should have at least 4 years in prior industry experience."
+      title: "Chef"

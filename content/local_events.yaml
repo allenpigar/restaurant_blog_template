@@ -1,0 +1,23 @@
+
+  - id: "5b1b-eefe-61db"
+    web:
+      metaDescription: ""
+      metaTitle: "Opening"
+      metaLinkText: "Opening"
+      metaKeywords: null
+      pathPart: "opening"
+      path: "/locations/usa/opening/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/locations/usa/"
+    meta:
+      sort: 13
+      listed: true
+    data:
+      calendar_description: "We're opening the San Diego Branch! Come and celebrate!"
+      date: "2018-07-28"
+      description: "We're opening the San Diego Branch! Come and celebrate!"
+      name: "Opening"
+      uuid: "9b9a9cc8-384b-450a-bdd5-712487521ce9"

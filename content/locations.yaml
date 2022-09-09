@@ -1,0 +1,20 @@
+
+  - id: "e2ce-d075-a896"
+    web:
+      metaDescription: ""
+      metaTitle: "Locations"
+      metaLinkText: "Locations"
+      metaKeywords: null
+      pathPart: "locations"
+      path: "/locations/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 4
+      listed: true
+    data:
+      subtitle: "Find the location nearest to you today. Don't see one near you?"
+      title: "2 Locations. Infinite Zest."

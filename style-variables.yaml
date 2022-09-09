@@ -1,0 +1,442 @@
+
+  - referenceName: "navbar-default-bg"
+    name: "Navigation Background Color"
+    sort: 1
+    type: "color"
+    value: "#f8f8f8"
+    description: "The active color for links"
+    category: 4
+    options: null
+  - referenceName: "navbar-height"
+    name: "Navigation Height"
+    sort: 1
+    type: "text"
+    value: "50px"
+    description: "The visited color for links"
+    category: 4
+    options: null
+  - referenceName: "navbar-default-link-color"
+    name: "Navigation Font Color"
+    sort: 1
+    type: "color"
+    value: "#777777"
+    description: null
+    category: 4
+    options: null
+  - referenceName: "nav-link-padding-left"
+    name: "Navigation Link Padding Left"
+    sort: 1
+    type: "text"
+    value: "30px"
+    description: null
+    category: 4
+    options:
+      10%: "10%"
+      100%: "100%"
+      20%: "20%"
+      30%: "30%"
+      40%: "40%"
+      50%: "50%"
+      60%: "60%"
+      70%: "70%"
+      80%: "80%"
+      90%: "90%"
+      auto: "As is"
+      contain: "Contain"
+      cover: "Cover"
+  - referenceName: "nav-link-padding"
+    name: "Navigation Link Padding"
+    sort: 1
+    type: "text"
+    value: "10px 15px"
+    description: null
+    category: 4
+    options:
+      10%: "10%"
+      100%: "100%"
+      20%: "20%"
+      30%: "30%"
+      40%: "40%"
+      50%: "50%"
+      60%: "60%"
+      70%: "70%"
+      80%: "80%"
+      90%: "90%"
+      auto: "As is"
+      contain: "Contain"
+      cover: "Cover"
+  - referenceName: "navbar-default-link-hover-color"
+    name: "Navigation Hover Font Color"
+    sort: 1
+    type: "color"
+    value: "#333333"
+    description: null
+    category: 4
+    options:
+      10%: "10%"
+      100%: "100%"
+      20%: "20%"
+      30%: "30%"
+      40%: "40%"
+      50%: "50%"
+      60%: "60%"
+      70%: "70%"
+      80%: "80%"
+      90%: "90%"
+      auto: "As is"
+      contain: "Contain"
+      cover: "Cover"
+  - referenceName: "navbar-default-link-hover-bg"
+    name: "Navigation Hover Background Color"
+    sort: 1
+    type: "color"
+    value: "rgba(255,255,255,0)"
+    description: "NULL"
+    category: 4
+    options:
+      10%: "10%"
+      100%: "100%"
+      20%: "20%"
+      30%: "30%"
+      40%: "40%"
+      50%: "50%"
+      60%: "60%"
+      70%: "70%"
+      80%: "80%"
+      90%: "90%"
+      auto: "As is"
+      contain: "Contain"
+      cover: "Cover"
+  - referenceName: "link-color"
+    name: "Link Color"
+    sort: 1
+    type: "color"
+    value: "#337ab7"
+    description: null
+    category: 3
+    options:
+      10%: "10%"
+      100%: "100%"
+      20%: "20%"
+      30%: "30%"
+      40%: "40%"
+      50%: "50%"
+      60%: "60%"
+      70%: "70%"
+      80%: "80%"
+      90%: "90%"
+      auto: "As is"
+      contain: "Contain"
+      cover: "Cover"
+  - referenceName: "link-hover-color"
+    name: "Link Hover Color"
+    sort: 1
+    type: "color"
+    value: "#236aa7"
+    description: null
+    category: 3
+    options:
+      10%: "10%"
+      100%: "100%"
+      20%: "20%"
+      30%: "30%"
+      40%: "40%"
+      50%: "50%"
+      60%: "60%"
+      70%: "70%"
+      80%: "80%"
+      90%: "90%"
+      auto: "As is"
+      contain: "Contain"
+      cover: "Cover"
+  - referenceName: "link-hover-decoration"
+    name: "Link Hover Decoration"
+    sort: 1
+    type: "dropdown"
+    value: "underline"
+    description: null
+    category: 3
+    options:
+      none: "None"
+      underline: "Underline"
+  - referenceName: "font-family-base"
+    name: "Main Body Font"
+    sort: 1
+    type: "font_picker"
+    value: "\"Helvetica Neue\", Helvetica, Arial, sans-serif"
+    description: null
+    category: 2
+    options:
+      none: "None"
+      underline: "Underline"
+  - referenceName: "text-color"
+    name: "Default Text Color"
+    sort: 1
+    type: "color"
+    value: "#333333"
+    description: "NULL"
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "font-size-base"
+    name: "Default Font Size"
+    sort: 1
+    type: "text"
+    value: "14px"
+    description: "NULL"
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "btn-default-color"
+    name: "Button Font Color"
+    sort: 1
+    type: "color"
+    value: "#333"
+    description: null
+    category: 6
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "btn-border-radius-base"
+    name: "Button Border Radius"
+    sort: 1
+    type: "text"
+    value: "4px"
+    description: null
+    category: 6
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "btn-default-bg"
+    name: "Button Background Color"
+    sort: 1
+    type: "color"
+    value: "#ffffff"
+    description: "NULL"
+    category: 6
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "container-large-desktop"
+    name: "Container Max Width"
+    sort: 1
+    type: "text"
+    value: "1160px"
+    description: null
+    category: 1
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "grid-gutter-width"
+    name: "Grid Gutter Width"
+    sort: 1
+    type: "text"
+    value: "30px"
+    description: "NULL"
+    category: 8
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "brand-primary"
+    name: "Brand Color"
+    sort: 3
+    type: "color"
+    value: "#337ab7"
+    description: "This color is used for hairlines, borders, even color on tables, and general aesthetics"
+    category: 1
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "border-radius-base"
+    name: "Default Border Radius"
+    sort: 4
+    type: "text"
+    value: "4px"
+    description: "The default curvature for borders around elements."
+    category: 1
+    options: null
+  - referenceName: "body-bg"
+    name: "Body Background Color"
+    sort: 5
+    type: "color"
+    value: "#ffffff"
+    description: "The primary background for elements"
+    category: 1
+    options: null
+  - referenceName: "line-height-computed"
+    name: "Paragraph line Height"
+    sort: 7
+    type: "text"
+    value: "1.4em"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "headings-font-family"
+    name: "Heading Font"
+    sort: 9
+    type: "font_picker"
+    value: "\"Helvetica Neue\", Helvetica, Arial, sans-serif"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "headings-color"
+    name: "H1 Font Color"
+    sort: 10
+    type: "color"
+    value: "#000000"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "font-size-h1"
+    name: "H1 Font Size"
+    sort: 11
+    type: "text"
+    value: "36px"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "headings-font-weight"
+    name: "H1 Font Weight"
+    sort: 12
+    type: "dropdown"
+    value: "500"
+    description: "NULL"
+    category: 2
+    options:
+      100: "100"
+      200: "200"
+      300: "300"
+      400: "400"
+      500: "500"
+      600: "600"
+      700: "700"
+      800: "800"
+      900: "900"
+  - referenceName: "font-size-h2"
+    name: "H2 Font Size"
+    sort: 16
+    type: "text"
+    value: "30px"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "font-size-h3"
+    name: "H3 Font Size"
+    sort: 21
+    type: "text"
+    value: "24px"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "font-size-h4"
+    name: "H4 Font Size"
+    sort: 26
+    type: "text"
+    value: "18px"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "font-size-h5"
+    name: "H5 Font Size"
+    sort: 31
+    type: "text"
+    value: "14px"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"
+  - referenceName: "font-size-h6"
+    name: "H6 Font Size"
+    sort: 36
+    type: "text"
+    value: "12px"
+    description: null
+    category: 2
+    options:
+      0ms: "No transition"
+      1000ms: "1 second"
+      100ms: "100ms"
+      250ms: "250ms"
+      500ms: "500ms"
+      50ms: "50ms"

@@ -1,0 +1,7 @@
+{
+  "name": "test_instance",
+  "reference-name": "test_instance",
+  "schema": "schema.yaml",
+  "settings": "settings.yaml",
+  "style-variables": "style-variables.yaml"
+}

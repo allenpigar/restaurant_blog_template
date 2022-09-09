@@ -1,0 +1,23 @@
+
+  - id: "9a95-e089-eed1"
+    web:
+      metaDescription: ""
+      metaTitle: "Pancake Day"
+      metaLinkText: "Pancake Day"
+      metaKeywords: null
+      pathPart: "pancake-day"
+      path: "/events/pancake-day/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/events/"
+    meta:
+      sort: 11
+      listed: true
+    data:
+      calendar_description: "That's right, for a day, ZestyBurger will become ZestyPancakes! Come taste our amazing, limited time only ZestyPancake!"
+      date: "2018-07-20 11:32:29.000000"
+      description: "<p>That's right, for a day, ZestyBurger will become ZestyPancakes! Come taste our amazing, limited time only ZestyPancake!</p>"
+      name: "Pancake Day"
+      uuid: "00f95fcf-78b2-4c0e-9980-78d00f72b91f"

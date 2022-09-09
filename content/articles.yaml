@@ -1,0 +1,22 @@
+
+  - id: "29dd-0f41-631c"
+    web:
+      metaDescription: ""
+      metaTitle: "Introducing the Zesty Burger"
+      metaLinkText: "Introducing the Zesty Burger"
+      metaKeywords: null
+      pathPart: "introducing-the-zesty-burger"
+      path: "/blog/introducing-the-zesty-burger/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 10
+      listed: true
+    data:
+      content: "<p>This is a blog post! Go edit me in the content view!</p>"
+      publish_date: "2018-07-20"
+      thumbnail: "https://6c706l48.media.zestyio.com/zestyburger.f1cb27a519bdb5b6ed34049a5b86e317.jpg"
+      title: "A Blog Post"

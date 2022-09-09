@@ -1,0 +1,20 @@
+
+  - id: "8411-884a-9d96"
+    web:
+      metaDescription: ""
+      metaTitle: "Menu"
+      metaLinkText: "Menu"
+      metaKeywords: null
+      pathPart: "menu"
+      path: "/menu/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      description: "From the blind texts themselves, here is our award-winning menu. With options for everyone, ZestyBurger caters to everyone."
+      title: "Zesty Eats"

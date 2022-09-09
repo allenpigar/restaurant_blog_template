@@ -1,0 +1,21 @@
+
+  - id: "464f-7359-3efa"
+    web:
+      metaDescription: ""
+      metaTitle: "Events"
+      metaLinkText: "Events"
+      metaKeywords: null
+      pathPart: "events"
+      path: "/events/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 6
+      listed: true
+    data:
+      description: "Zesty Burger has the wildest events. Everyone loves them. See the events below. Add them to your calendar!<br/><br/>\n\n\tLorem ipsum dolor amet chambray chillwave trust fund, occupy cold-pressed church-key lyft vexillologist pinterest actually VHS woke farm-to-table mustache."
+      image: "https://6c706l48.media.zestyio.com/events.e30e95fa129be1d3dec75be06ab1c4b4.jpeg"
+      title: "Zesty Times"
